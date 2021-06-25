@@ -1,0 +1,16 @@
+{
+    "CN": "my demo CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "DE",
+            "ST": "Northrhine-Westphalia",
+            "L": "Bonn",
+            "O": "predic8 GmbH",
+            "OU": "Security"
+        }
+    ]
+}

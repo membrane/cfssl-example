@@ -1,0 +1,21 @@
+{
+    "CN": "server",
+    "hosts": [
+        "localhost",
+        "someserver.predic8.de",
+        "127.0.0.1"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "DE",
+            "ST": "Northrhine-Westphalia",
+            "L": "Bonn",
+            "O": "predic8 GmbH",
+            "OU": "Some Server Department"
+        }
+    ]
+}
